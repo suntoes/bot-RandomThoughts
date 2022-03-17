@@ -1,0 +1,33 @@
+{
+  "name": "functions",
+  "scripts": {
+    "build": "tsc",
+    "repeater": "node lib/repeater.js",
+    "serve": "npm run build && firebase emulators:start --only functions",
+    "shell": "npm run build && firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "lib/tweet.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.0",
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.19.0",
+    "mongoose": "^6.2.6",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^13.5.1",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.5",
+    "twitter-api-v2": "^1.11.0"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0",
+    "typescript": "^4.5.4"
+  },
+  "private": true
+}
