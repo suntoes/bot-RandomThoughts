@@ -25,7 +25,7 @@ First off, have a clean directory for the project, and then run this on the term
 > ...select TypeScript
 > ...use ESlint? No
 ```
-After that, you'd have to delete all the files inside the /functions folder, and then replace it with the insides of /functions in this repo.
+After that, you'd have to delete all the files inside the /functions folder, and then replace it in place with everything on this repo.
 
 <hr>
 </details>
@@ -43,6 +43,7 @@ TWEET_URL="Your_Firestore_Callback_URL" // read note#1
 MONGO_URI="Your_MongoDb_URI" // read note#2
 ```
 <b>note#1</b>: You'll need to run the scripts upto the firebase serve, and then see the console to get this. See the <i>scripts and commands</i> for the idea.
+  
 <b>note#2</b>: Initial  document in the database is crucial. Set it up by adding a "bot-datas" collection in your referred database. And then manually insert a document with { name: "random-thoughts", data: [ ] }.
   
 <hr>
