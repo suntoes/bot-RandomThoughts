@@ -1,4 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/89338392/158772707-e01d592e-989c-4068-9418-067f9ab77691.png)" alt="r-bot/RandomThoughts logo" width="120"/>
+<img src="https://raw.githubusercontent.com/suntoes/bot-RandomThoughts/master/src/img/icon.png" alt="r-bot/RandomThoughts logo" width="120"/>
 
 # bot/RandomThoughts
 
