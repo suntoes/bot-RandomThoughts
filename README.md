@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/suntoes/bot-RandomThoughts/master/functions/src/img/icon.png?token=GHSAT0AAAAAABRECJQ3UHWNZCHA77SMQPTEYRS4D5A" alt="r-bot/RandomThoughts logo" width="120"/>
+<img src="![image](https://user-images.githubusercontent.com/89338392/158772707-e01d592e-989c-4068-9418-067f9ab77691.png)" alt="r-bot/RandomThoughts logo" width="120"/>
 
 # bot/RandomThoughts
 
 <a href="https://twitter.com/rndm_thghts_bot">
-<img src="https://raw.githubusercontent.com/suntoes/bot-RandomThoughts/master/functions/src/img/banner.png?token=GHSAT0AAAAAABRECJQ3XJEYBRCPBKWVF4IKYRS4GBQ" alt="banner" width="400"/>
+<img src="https://raw.githubusercontent.com/suntoes/bot-RandomThoughts/master/src/img/banner.png" alt="banner" width="400"/>
 </a>
 
 ## A reddit to twitter bot...
