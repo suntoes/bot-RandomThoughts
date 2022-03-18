@@ -2,7 +2,7 @@
 
 # bot/RandomThoughts
 
-<a href="https://twitter.com/rndm_thghts_bot">
+<a href="https://twitter.com/_r4ndomthoughts">
 <img src="https://raw.githubusercontent.com/suntoes/bot-RandomThoughts/master/src/img/banner.png" alt="banner" width="400"/>
 </a>
 
